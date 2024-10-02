@@ -2,6 +2,8 @@
 
 A lightweight and customizable confetti animation component for React applications.
 
+![Confetti Animation](./src/confetti.gif)
+
 ## Table of Contents
 
 1. [Installation](#installation)
