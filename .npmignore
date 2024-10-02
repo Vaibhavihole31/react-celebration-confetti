@@ -1,0 +1,32 @@
+# Source files
+src/
+
+# Test files
+__tests__/
+*.test.js
+
+# Configuration files
+.babelrc
+.eslintrc
+webpack.config.js
+
+# Git files
+.gitignore
+.git/
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build scripts
+scripts/
+
+# Continuous Integration
+.travis.yml
+.github/
+
+# Documentation files (if you don't want to include them)
+docs/
